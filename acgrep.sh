@@ -14,7 +14,7 @@
 #
 # author: dth@dthlabs.com
 #
-# To run dayly, add to your cron: 
+# To run daily, add to your cron: 
 # 0 */1 * * * /root/aclogs/acgrep.sh
 
 # #######################################################################
